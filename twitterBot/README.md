@@ -12,4 +12,4 @@ tweetBot allows to browse the list of keywords added in parameter and to :
 
 This little script is an exercise to increase the visibility of a tweeter account for purely marketing purposes.
 
-[Tweeter] https://twitter.com/PierreDelmas12
+:twemoji 2.1.2: [Tweeter] https://twitter.com/PierreDelmas12 
