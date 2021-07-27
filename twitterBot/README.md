@@ -12,4 +12,13 @@ tweetBot allows to browse the list of keywords added in parameter and to :
 
 This little script is an exercise to increase the visibility of a tweeter account for purely marketing purposes.
 
-:bird: [Tweeter] https://twitter.com/PierreDelmas12 
+## Imports 
+Add the library called "Tweepy" 
+```python
+pip install Tweepy
+
+in the project : 
+    import tweepy
+
+:bird: [Tweeter] (https://twitter.com/PierreDelmas12) 
+
