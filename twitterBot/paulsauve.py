@@ -1,9 +1,9 @@
 import tweepy
 import time
 
-#Accès au compte tweeter
-auth = tweepy.OAuthHandler('9hlV3L2CWhuzBxTMC5iyZuoZ1','e5xbjUCRUHAwdAO2x6sRGXcim73tcwRhMULM3slBLwKhfTOreW')
-auth.set_access_token('1420006259097575425-iaRYNp1JV1HfsrdshvEUnTiHMhv7k5','fnLRpbrMSOCJYgDLkgi1BKoI1H7Ocoj1qsxuuktqTSitJ')
+#ACCOUNT ACCESS
+auth = tweepy.OAuthHandler('cTSQ5cakn17HusuvtItWEwuJ0','SiZnYughKFmLX3xt59YIFblyeYmbW0XqC0x9MU23A6DvKarNyU')#API KEY, #API KEY SECRET
+auth.set_access_token('1420006259097575425-MLaER8Fnnr8b6czUfXmrIJLlCWiVMQ','HnapXyoJVwSX3m50lP87cjN0IZJiHFSr13UdljyiZLHux')#TOKEN, #SECRET TOKEN
 
 api = tweepy.API(auth, wait_on_rate_limit=True, wait_on_rate_limit_notify=True)
 
