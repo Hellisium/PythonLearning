@@ -20,5 +20,6 @@ pip install Tweepy
 in the project : 
     import tweepy
 
-:bird: [Tweeter] (https://twitter.com/PierreDelmas12) 
+``` 
+:bird: [Tweeter](https://twitter.com/PierreDelmas12) 
 
