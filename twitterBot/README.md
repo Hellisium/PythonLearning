@@ -18,8 +18,14 @@ Add the library called "Tweepy"
 pip install Tweepy
 
 in the project : 
-    import tweepy
+
+import tweepy
+
+auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
+auth.set_access_token(access_token, access_token_secret)
+
+api = tweepy.API(auth)
 
 ``` 
 :bird: [Tweeter](https://twitter.com/PierreDelmas12) 
-
+:books: [Library](https://docs.tweepy.org/en/stable/index.html)
