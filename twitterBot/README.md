@@ -17,7 +17,7 @@ Add the library called "Tweepy"
 ```python
 pip install Tweepy
 
-**in the project :** 
+
 
 import tweepy
 
