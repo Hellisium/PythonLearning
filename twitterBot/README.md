@@ -1,4 +1,4 @@
-# :bird: tweeterBot
+# :bird: twitterBot
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-robots.svg)](https://forthebadge.com)
 
 ## Description
@@ -6,11 +6,11 @@
 tweetBot allows to browse the list of keywords added in parameter and to : 
 
 - Retweet a few tweets who have some specifics keywords 
-- Like the sames tweets :arrow_up:
+- Like those tweets :arrow_up:
 
 ## Goals 
 
-This little script is an exercise to increase the visibility of a tweeter account for purely marketing purposes.
+This little script is an exercise to increase the visibility of a twitter account for purely marketing purposes.
 
 ## Imports 
 Add the library called "Tweepy" 
@@ -27,5 +27,5 @@ auth.set_access_token(access_token, access_token_secret)
 api = tweepy.API(auth)
 
 ``` 
-:bird: [Tweeter](https://twitter.com/PierreDelmas12) 
+:bird: [Twitter](https://twitter.com/PierreDelmas12) 
 :books: [Library](https://docs.tweepy.org/en/stable/index.html)
