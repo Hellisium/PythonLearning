@@ -30,4 +30,4 @@ Bot Twitter qui like et retweet des mots clés donnés en paramettres.
 - Plateforme : :bird: Twitter (API)  
 - Plannificateur de tâches Windows 
 - Visual Studio Code 
-- :git: [Projet Git](https://github.com/Hellisium/PythonLearning/tree/main/twitterBot)
+- [Projet Git disponible ici](https://github.com/Hellisium/PythonLearning/tree/main/twitterBot)
