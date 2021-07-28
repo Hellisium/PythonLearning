@@ -24,7 +24,8 @@ Converti de JSON en CSV
 
 ### Bot Twitter (Projet PRP / PERSO)  :bird: 
 
-Bot Twitter qui like et retweet des mots clés donnés en paramettres. 
+Bot Twitter qui **like** et **retweet** des posts qui contiennent des **mots clés** passés en paramettres. 
+Il repost au maximum 5 posts par jours.
 
 #### Outils 
 - Plateforme : Twitter (API)  
