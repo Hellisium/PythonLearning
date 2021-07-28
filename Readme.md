@@ -22,7 +22,7 @@ Converti de JSON en CSV
 - Plannificateur de tâches Windows 
 - Visual Studio Code
 
-### Bot Twitter :bird: 
+### Bot Twitter (Projet PRP / PERSO)  :bird: 
 
 Bot Twitter qui like et retweet des mots clés donnés en paramettres. 
 
