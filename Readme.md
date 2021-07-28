@@ -9,7 +9,7 @@ En parrallèle de mes cours à l'EPSI, je m'autoforme sur le langage python et s
 
 ## Projets en cours 
 
-- Bot Twitter 
+- Bot Twitter (fonctionnel mais reste quelques modifications) 
 
 ## Projets Fini :
 
@@ -21,3 +21,13 @@ Converti de JSON en CSV
 - Plateforme : TransfertBanque 
 - Plannificateur de tâches Windows 
 - Visual Studio Code
+
+### Bot Twitter  
+
+Bot Twitter qui like et retweet des mots clés donnés en paramettres. 
+
+#### Outils 
+- Plateforme : :bird: Twitter (API)  
+- Plannificateur de tâches Windows 
+- Visual Studio Code 
+- :git: [Projet Git](https://github.com/Hellisium/PythonLearning/tree/main/twitterBot)
